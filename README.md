@@ -3,12 +3,12 @@
 This project combines **Facial Emotion Recognition (FER)** with **Sentiment Analysis** using deep learning and NLP techniques to understand human expressions from both facial images and textual data.
 
 ---
+![Screen Recording 2025-06-06 013100](https://github.com/user-attachments/assets/7ae840aa-6c8d-4928-8b4f-23a5b5a42d80)
 
 ## 🔍 Project Objective
 
 To build a dual-mode sentiment analysis system:
 - 🎭 **Facial Emotion Recognition** – Identify emotions such as happy, sad, angry, etc., from human facial expressions.
-- 🗣️ **Textual Sentiment Analysis** – Detect the sentiment behind user comments or messages using NLP.
 
 ---
 
@@ -32,7 +32,7 @@ To build a dual-mode sentiment analysis system:
 
 ### 🛠️ Tools
 - NumPy, Pandas, Matplotlib
-- Flask / Streamlit (for demo if applicable)
+- Flask 
 
 ---
 
